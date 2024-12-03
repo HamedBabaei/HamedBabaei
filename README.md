@@ -2,7 +2,10 @@
 - 🏷️ I am an NLP researcher and Ph.D. candidate at **TIB - Leibniz Information Centre for Science and Technology**
 - 🔭 I’m currently working on LLM's, Knowledge Graphs, and ChatBots
 
+
+
 <p align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamedbabaei&label=Profile%20views&color=0e75b6&style=flat" alt="karthikbhat21" /> </p>
   <a href="mailto: hamedbabaeigiglou@gmail.com">
         <img align="left" alt="email" title="Email" width="5%"  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png">
   </a>
